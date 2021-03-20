@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1_CalculadorPromedios", "Ejercicio1_CalculadorPromedios\Ejercicio1_CalculadorPromedios.csproj", "{607319B0-272B-4127-BF9D-0C01D7F97CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607319B0-272B-4127-BF9D-0C01D7F97CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607319B0-272B-4127-BF9D-0C01D7F97CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607319B0-272B-4127-BF9D-0C01D7F97CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607319B0-272B-4127-BF9D-0C01D7F97CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAB9496-8CD2-4075-9F95-6E9E9D866F5D}
+	EndGlobalSection
+EndGlobal
